@@ -103,5 +103,27 @@ Demonstrate the use of modern JavaScript concepts to build a small interactive w
 - Include your **complete code**
 - Provide a **brief explanation** of your implementation
 - Add **screenshots of your working application** (optional)
-```
 
+**Task 6: Local Storage Notes Application**
+
+_Objective_
+
+Create a simple **Notes web application** that allows users to:
+
+- Add new notes  
+- View saved notes  
+- Delete notes  
+
+All notes should be **stored in the browser using Local Storage** so that they remain available even after the page is refreshed.
+
+_Requirements_
+
+- Use **ES6 classes** to manage notes or the notes manager  
+- Use the **Local Storage API** to save and retrieve notes  
+- Use array methods like `map()`, `filter()`, or `forEach()` to manage note data  
+- Use **arrow functions** for event handling  
+- Use `let` and `const` for variable declarations  
+
+_Goal:_  
+Demonstrate how JavaScript can be used to build a small persistent application using **Local Storage and modern ES6 features**.
+```
